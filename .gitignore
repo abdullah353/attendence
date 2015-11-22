@@ -5,3 +5,7 @@ Homestead.json
 .env
 *.un~
 config/database.php
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
